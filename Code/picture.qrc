@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>map.jpg</file>
+        <file>background.jpg</file>
+        <file>fire.jpg</file>
+        <file>CF.ico</file>
+        <file>carrot.png</file>
+        <file>rabbit.png</file>
+    </qresource>
+</RCC>

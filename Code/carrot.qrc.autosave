@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>C:/Users/traceur/Desktop/carrot.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\grid.o
+./release\grid_group.o
+./release\mylabel.o
+./release\myvector.o
+./release\algorithm.o
+./release\qrc_picture.o
+./release\moc_mainwindow.o
+./release\moc_mylabel.o
+);
